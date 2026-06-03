@@ -1,0 +1,36 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+/.idea/
+/.vscode/
+
+# Crashlytics generated
+crashlytics-build.properties
+
+# Asset meta files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Unity-specific
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.booproj
+*.svd
+*.apk
+*.aab
+*.unitypackage
+
+# Local tools
+MemoryCapturas/

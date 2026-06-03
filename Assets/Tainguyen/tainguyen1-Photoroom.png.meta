@@ -1,0 +1,2815 @@
+fileFormatVersion: 2
+guid: fc94213ee5673ed4894ff9b0e9a1dcca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5422828213184736069
+    second: tainguyen1-Photoroom_0
+  - first:
+      213: 38980917202513314
+    second: tainguyen1-Photoroom_1
+  - first:
+      213: -6748239026812616880
+    second: tainguyen1-Photoroom_2
+  - first:
+      213: -622666132944813355
+    second: tainguyen1-Photoroom_3
+  - first:
+      213: 8776387371925679227
+    second: tainguyen1-Photoroom_4
+  - first:
+      213: -6937822382012916157
+    second: tainguyen1-Photoroom_5
+  - first:
+      213: 4993091015398058349
+    second: tainguyen1-Photoroom_6
+  - first:
+      213: 8630738670305350865
+    second: tainguyen1-Photoroom_7
+  - first:
+      213: 644813315638543329
+    second: tainguyen1-Photoroom_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 679
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45823b87e3eb4b0800000000000000
+      internalID: -5422828213184736069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 697
+        width: 221
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adefda00fc7a8000800000000000000
+      internalID: 38980917202513314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 627
+        width: 227
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ff76bdb507952a0800000000000000
+      internalID: -6748239026812616880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 560
+        width: 229
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2882c7378db57f0800000000000000
+      internalID: -622666132944813355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 917
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7caad2c0ddfbc970800000000000000
+      internalID: 8776387371925679227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 648
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e9d5d3d47e7bf90800000000000000
+      internalID: -6937822382012916157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 917
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69eeffe2d50b4540800000000000000
+      internalID: 4993091015398058349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 440
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d417c0d71b86c770800000000000000
+      internalID: 8630738670305350865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 436
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c3115b46d2f800800000000000000
+      internalID: 644813315638543329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 892
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b834b7af5bdec49bfd2a29898dfea1
+      internalID: 2117470060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 888
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb3291c0ae32e4b896af42e8bd6172
+      internalID: -1436566448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 891
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868ec3a15bdb3fb45b5c7e7ab9b93576
+      internalID: -1032029849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 891
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94b36d6dfb5904bafaf3d82e95e436
+      internalID: 1921180035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 890
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d341ca131f254b9074afbb2489e06
+      internalID: 1949578885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 890
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa62c9c33092d43a350bc0840fb972
+      internalID: -352708119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 892
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317adfbe97e07b4494edaeeac1757e6
+      internalID: -310700542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 890
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034fb976e4312ef46b15a9beb372f565
+      internalID: 507232363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 891
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a342662a95bc489f4f11b7a2d79b0
+      internalID: -532414571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 891
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351b21b89dce1e45b90af1b1430dbd1
+      internalID: -283338658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 784
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e2d3629bb51b4cb4ae8f999e93b33
+      internalID: 1529419708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 783
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d976dead6bf76409f5c24640ccc7e5
+      internalID: -679656253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 781
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd03521692dd4046b54bcdd4e6415e2
+      internalID: -566386590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 780
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56a8ad31cdffc47953fa12173e5efb
+      internalID: -1762920545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 783
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c537aa30d0492f449d61c084d441801
+      internalID: 550432587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 781
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03541124c767448a64e6942302719d
+      internalID: 893138196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 780
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec479aa1e6aa24dadd442754f56943
+      internalID: -931242765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 781
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a37c7b7906cf84b94db351b8334325
+      internalID: -966106646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 781
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452121fefb678749a08fb96c24b9a52
+      internalID: 2091746509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 785
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ad2020a195944b8421ea4dd7788fb
+      internalID: -363956995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 668
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93919191a78e9fb44828e455b42c6769
+      internalID: -2053999776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 670
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740e4c8460f68f40b59a1d43f9b1a66
+      internalID: -1412109347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 674
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9879088bfcb0f4aafeb2a70ca83bd6
+      internalID: -1696330327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 682
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a63ae9c9903549a7b6a0a189ef62a
+      internalID: -568741827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 688
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928b44a70155be4ab8ddc8b9f6e49b0
+      internalID: -1641511251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 692
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda7bdaf63ba0e49b39f6e86a6f26cf
+      internalID: -1093367228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 680
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a6c05fa7834341aca43fb60cc7eef
+      internalID: 1063399870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 672
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c95dbffd0e9e4794291e64df42406
+      internalID: -1335885629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 667
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8ec9e84e9bb9449c4baf21b9ce82d
+      internalID: 930372020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 571
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768ba0dcdf36e84390994b2ed6ef6d0
+      internalID: -1296869448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 570
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ed453a15b45024092a85869489fd53
+      internalID: 722463243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 569
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebb229f666e374b957763e5581b4b0
+      internalID: 353985908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 569
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993f010f8969f7409d1f324ad326d07
+      internalID: 1071584324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 570
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28c3a1655935a4fbbc08faa9317024
+      internalID: 1550481487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 567
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c570cd40398551d4db28e4da65ec9024
+      internalID: 1727303648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 569
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d822f6284297459a768944e9fa9e7
+      internalID: -677400525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 569
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd1c8ae366367479feae24368678ed
+      internalID: 767259770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 567
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b806aaf965f7f47b6a00ec5714be68
+      internalID: 77680473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 570
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38731eb96532645b153fa80d51721f
+      internalID: -368355310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 372
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc60d3ad56a7f54ea68ccc402910467
+      internalID: 965724169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 371
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe12aed953b49c4aa91ac32b7824692
+      internalID: 1132271709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 370
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5391576aa0813742bf75c0569e44a95
+      internalID: 1652380977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 374
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b89ed37dec4b429ebecc2f3473caf
+      internalID: 1418307510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 372
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c38c45508dcb47bdb4dddf5a25b69
+      internalID: -775624861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 370
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697cdc3b002813c4f8865afa8ef121c8
+      internalID: -1715885667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 370
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1964cdae2a1a4a46a55c53ec4f7cc64
+      internalID: 481446938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 371
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a97507adf7b042b5a2e16dc97a485
+      internalID: -1351783848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 374
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4fa5dcd9b81149ba0a2801d567274
+      internalID: 21829373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 297
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5cd0bed6ff0c94d84f3ca65c58efc9
+      internalID: 1071595745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 298
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3960c49dc14164a9897fb6c3c058de
+      internalID: -444820339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 298
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a8d5dc41d3f4f44a4fd75de65194a2
+      internalID: 1874480731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 298
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c74db23041423498ba8c8215491a73
+      internalID: 904210458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 298
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dda80d244be940a581987d2bede2c
+      internalID: 572122645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 297
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424577a2c7627b2448166471bdbfe14b
+      internalID: 479282503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 298
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b89e526b2e914cadcc1277d70bc05
+      internalID: -2146862423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 298
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d837fbdad6ddcf49b704b48eecdda97
+      internalID: 2125376852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 299
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a774d1db5ea3043bcfefb5e2b86e55
+      internalID: -1045701646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 570
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04175701dfbc447b4ea828a949f2db
+      internalID: 1753829363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 648
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc4077e026d8aa49937413df72473f2
+      internalID: -581041162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 719
+        width: 147
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7a94256dff994482f64c6dbb50f9a
+      internalID: 322531446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 815
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfaa8bab3efdb4490a39e86c3350a5
+      internalID: 324722974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 903
+        width: 136
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5ac65e22de0545b284de77b23fdf1
+      internalID: -2077551170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 518
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a682724fd5fe45a8b87120e10c4b0
+      internalID: -1983134830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 602
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a47b4d52a79de408035a7890911b44
+      internalID: -773640141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 351
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e322c5f646c34ba09927d12a7ab52
+      internalID: 271499902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 167
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec7953c66584f4081ff2a53197638f
+      internalID: 1416070433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 170
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9270ebcb88dc4924191c21687154a62a
+      internalID: -2105820577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 172
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c79423f9ef29843a1a30acbc0d9e27
+      internalID: 1419415013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 163
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c092f0046203f4dac2b2ccb26fe98a
+      internalID: 941851305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 163
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8794c6f97e7a4e9e164258f12aa87
+      internalID: -1173443934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 98
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e443136f1c20d024eaec872639997a55
+      internalID: 1720544690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 83
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb23734a3bf4664ab7af023720494da
+      internalID: -216713640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 83
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24880d0d4469d974d88ef2672093f4b9
+      internalID: 1440661005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 84
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fa8ea6cb45bd4b918479b59322831
+      internalID: 1778571361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 92
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bddc09cc41bda94d8da8e6ed74f438b
+      internalID: -200881715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 132
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747c5778d551f02418855c88cad2fb52
+      internalID: 632863471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 60
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c71fbb4146cf74986da7ee23967f40
+      internalID: 441866807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 130
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecaf43c2946aa441af617ae2f62ebb5
+      internalID: 905349049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 125
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215317ada80bee4fb565c1e3596ae1a
+      internalID: 306106025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 63
+        width: 237
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7988811a3b4c64a938a27c102cae8c
+      internalID: -936697863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ce25549e1c82142846c412382415a1
+      internalID: 1695442726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 89
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a862210ad2794a4b951df434d259b82
+      internalID: 220536295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 87
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf84cd718b5d641b1428f3aebb1bdb
+      internalID: 2105312209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 102
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ae5389da7f044bbb39085a2b114e6
+      internalID: -1829802475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c8dd301979d444a8e14924f360d6b
+      internalID: 1436235749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 95
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e835c50a088e9241a2e696d68a13856
+      internalID: -1039596596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 25
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663cb307afbc7ee4cb37f9687e1fd0b5
+      internalID: 1965904639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 26
+        width: 166
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a9ec770c476b458b8301d3a769885
+      internalID: -540556357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 25
+        width: 65
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947c51fee84a884981ce88cb2bf5dfe
+      internalID: -1320853786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 26
+        width: 68
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eea15c482f0704b84029ba955f3e01
+      internalID: -1014081991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 26
+        width: 30
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3007da15be383c749a690e2c0c606466
+      internalID: 653399473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 112
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2187ee20f3af247a36b7a3d0c59c3b
+      internalID: -55845519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 466
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d75c24c71f9d44a9dd0ec4fcc422d8
+      internalID: 1023460843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 465
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63934ba446ab794295b0c374ec879e6
+      internalID: -991193091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 468
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2108bd10f7fac1146b5c90c3d5ed5e9c
+      internalID: 252257958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 468
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a3f808ecca6341828c0c96c784ece
+      internalID: 705562670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 465
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332cb7df0a381e14cb091b2f073d94dc
+      internalID: 1133466363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 465
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcab8e2a7865da47ac11a8a68ed2c44
+      internalID: -1628359384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 466
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f24054da18fe14ca410a33b7503053
+      internalID: 1505876139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 467
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ced406cb499442afc2ee2907f705c
+      internalID: 37005231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 466
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476bcc66d7be444b89f39f3bdd52fa0
+      internalID: -1875511284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 430
+        width: 142
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee60757eec86848aa834405d3bc856
+      internalID: -550724096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 425
+        width: 118
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda88bada52d82041bdbad37c1acbe0b
+      internalID: 1346145644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 300
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc04baabd73920b4d98e7b152f34ab6a
+      internalID: -1879515593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 301
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2509fd6e294d4f545b14ed54dee1094c
+      internalID: 734303844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tainguyen1-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 309
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71603f708ccf6499260ceb04796c61
+      internalID: -1263063810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 877a1ca8c2ab9fb48935ac283b99c9b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tainguyen1-Photoroom_0: -5422828213184736069
+      tainguyen1-Photoroom_1: 38980917202513314
+      tainguyen1-Photoroom_10: -1436566448
+      tainguyen1-Photoroom_100: -55845519
+      tainguyen1-Photoroom_101: 1023460843
+      tainguyen1-Photoroom_102: -991193091
+      tainguyen1-Photoroom_103: 252257958
+      tainguyen1-Photoroom_104: 705562670
+      tainguyen1-Photoroom_105: 1133466363
+      tainguyen1-Photoroom_106: -1628359384
+      tainguyen1-Photoroom_107: 1505876139
+      tainguyen1-Photoroom_108: 37005231
+      tainguyen1-Photoroom_109: -1875511284
+      tainguyen1-Photoroom_11: -1032029849
+      tainguyen1-Photoroom_110: -550724096
+      tainguyen1-Photoroom_111: 1346145644
+      tainguyen1-Photoroom_112: -1879515593
+      tainguyen1-Photoroom_113: 734303844
+      tainguyen1-Photoroom_114: -1263063810
+      tainguyen1-Photoroom_12: 1921180035
+      tainguyen1-Photoroom_13: 1949578885
+      tainguyen1-Photoroom_14: -352708119
+      tainguyen1-Photoroom_15: -310700542
+      tainguyen1-Photoroom_16: 507232363
+      tainguyen1-Photoroom_17: -532414571
+      tainguyen1-Photoroom_18: -283338658
+      tainguyen1-Photoroom_19: 1529419708
+      tainguyen1-Photoroom_2: -6748239026812616880
+      tainguyen1-Photoroom_20: -679656253
+      tainguyen1-Photoroom_21: -566386590
+      tainguyen1-Photoroom_22: -1762920545
+      tainguyen1-Photoroom_23: 550432587
+      tainguyen1-Photoroom_24: 893138196
+      tainguyen1-Photoroom_25: -931242765
+      tainguyen1-Photoroom_26: -966106646
+      tainguyen1-Photoroom_27: 2091746509
+      tainguyen1-Photoroom_28: -363956995
+      tainguyen1-Photoroom_29: -2053999776
+      tainguyen1-Photoroom_3: -622666132944813355
+      tainguyen1-Photoroom_30: -1412109347
+      tainguyen1-Photoroom_31: -1696330327
+      tainguyen1-Photoroom_32: -568741827
+      tainguyen1-Photoroom_33: -1641511251
+      tainguyen1-Photoroom_34: -1093367228
+      tainguyen1-Photoroom_35: 1063399870
+      tainguyen1-Photoroom_36: -1335885629
+      tainguyen1-Photoroom_37: 930372020
+      tainguyen1-Photoroom_38: -1296869448
+      tainguyen1-Photoroom_39: 722463243
+      tainguyen1-Photoroom_4: 8776387371925679227
+      tainguyen1-Photoroom_40: 353985908
+      tainguyen1-Photoroom_41: 1071584324
+      tainguyen1-Photoroom_42: 1550481487
+      tainguyen1-Photoroom_43: 1727303648
+      tainguyen1-Photoroom_44: -677400525
+      tainguyen1-Photoroom_45: 767259770
+      tainguyen1-Photoroom_46: 77680473
+      tainguyen1-Photoroom_47: -368355310
+      tainguyen1-Photoroom_48: 965724169
+      tainguyen1-Photoroom_49: 1132271709
+      tainguyen1-Photoroom_5: -6937822382012916157
+      tainguyen1-Photoroom_50: 1652380977
+      tainguyen1-Photoroom_51: 1418307510
+      tainguyen1-Photoroom_52: -775624861
+      tainguyen1-Photoroom_53: -1715885667
+      tainguyen1-Photoroom_54: 481446938
+      tainguyen1-Photoroom_55: -1351783848
+      tainguyen1-Photoroom_56: 21829373
+      tainguyen1-Photoroom_57: 1071595745
+      tainguyen1-Photoroom_58: -444820339
+      tainguyen1-Photoroom_59: 1874480731
+      tainguyen1-Photoroom_6: 4993091015398058349
+      tainguyen1-Photoroom_60: 904210458
+      tainguyen1-Photoroom_61: 572122645
+      tainguyen1-Photoroom_62: 479282503
+      tainguyen1-Photoroom_63: -2146862423
+      tainguyen1-Photoroom_64: 2125376852
+      tainguyen1-Photoroom_65: -1045701646
+      tainguyen1-Photoroom_66: 1753829363
+      tainguyen1-Photoroom_67: -581041162
+      tainguyen1-Photoroom_68: 322531446
+      tainguyen1-Photoroom_69: 324722974
+      tainguyen1-Photoroom_7: 8630738670305350865
+      tainguyen1-Photoroom_70: -2077551170
+      tainguyen1-Photoroom_71: -1983134830
+      tainguyen1-Photoroom_72: -773640141
+      tainguyen1-Photoroom_73: 271499902
+      tainguyen1-Photoroom_74: 1416070433
+      tainguyen1-Photoroom_75: -2105820577
+      tainguyen1-Photoroom_76: 1419415013
+      tainguyen1-Photoroom_77: 941851305
+      tainguyen1-Photoroom_78: -1173443934
+      tainguyen1-Photoroom_79: 1720544690
+      tainguyen1-Photoroom_8: 644813315638543329
+      tainguyen1-Photoroom_80: -216713640
+      tainguyen1-Photoroom_81: 1440661005
+      tainguyen1-Photoroom_82: 1778571361
+      tainguyen1-Photoroom_83: -200881715
+      tainguyen1-Photoroom_84: 632863471
+      tainguyen1-Photoroom_85: 441866807
+      tainguyen1-Photoroom_86: 905349049
+      tainguyen1-Photoroom_87: 306106025
+      tainguyen1-Photoroom_88: -936697863
+      tainguyen1-Photoroom_89: 1695442726
+      tainguyen1-Photoroom_9: 2117470060
+      tainguyen1-Photoroom_90: 220536295
+      tainguyen1-Photoroom_91: 2105312209
+      tainguyen1-Photoroom_92: -1829802475
+      tainguyen1-Photoroom_93: 1436235749
+      tainguyen1-Photoroom_94: -1039596596
+      tainguyen1-Photoroom_95: 1965904639
+      tainguyen1-Photoroom_96: -540556357
+      tainguyen1-Photoroom_97: -1320853786
+      tainguyen1-Photoroom_98: -1014081991
+      tainguyen1-Photoroom_99: 653399473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
